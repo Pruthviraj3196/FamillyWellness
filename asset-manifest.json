@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FamillyWellness/static/css/main.1154c3fd.css",
+    "main.js": "/FamillyWellness/static/js/main.94584947.js",
+    "static/js/453.ed3810f9.chunk.js": "/FamillyWellness/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/FamillyWellness/index.html",
+    "main.1154c3fd.css.map": "/FamillyWellness/static/css/main.1154c3fd.css.map",
+    "main.94584947.js.map": "/FamillyWellness/static/js/main.94584947.js.map",
+    "453.ed3810f9.chunk.js.map": "/FamillyWellness/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1154c3fd.css",
+    "static/js/main.94584947.js"
+  ]
+}
